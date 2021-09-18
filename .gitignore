@@ -1,0 +1,13 @@
+*.DS_Store
+*.pyc
+*/Library/
+*/Temp/
+*/Logs/
+/.idea/
+*/obj/
+*.csproj
+*/Build/
+*.sln*
+/.vs/
+*/Packages/packages-lock.json
+/.vscode/settings.json
