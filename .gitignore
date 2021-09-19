@@ -8,6 +8,7 @@
 *.csproj
 */Build/
 *.sln*
-/.vs/
+*/.vs/
+*/.vscode/
 */Packages/packages-lock.json
 /.vscode/settings.json
