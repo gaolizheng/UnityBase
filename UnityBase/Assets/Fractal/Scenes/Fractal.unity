@@ -164,8 +164,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563c62ff042e8429aa971e67d8585a68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  mesh:
+  - {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   material: {fileID: 2100000, guid: f8d20235db50d4557a65816c38bd8a24, type: 2}
+  maxDepths: 4
+  childScale: 0.5
+  spawnProbability: 0.8
 --- !u!1 &231399468
 GameObject:
   m_ObjectHideFlags: 0
