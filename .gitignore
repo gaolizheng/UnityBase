@@ -3,7 +3,7 @@
 */Library/
 */Temp/
 */Logs/
-/.idea/
+*/.idea/
 */obj/
 *.csproj
 */Build/
